@@ -42,6 +42,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Classes\Beverages.cs" />
+    <Compile Include="Classes\DarkRoast.cs" />
+    <Compile Include="Classes\Decaf.cs" />
+    <Compile Include="Classes\Espresso.cs" />
+    <Compile Include="Classes\HouseBlend.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
